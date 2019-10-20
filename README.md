@@ -1,1 +1,1 @@
-this is luisscitoo's first giet proyect!
+this is luisscitoo's first git proyect!
